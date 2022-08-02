@@ -3,7 +3,6 @@ deploy:
   repo: git@github.com:gaomeng965/menggao.github.io.git
   branch: master
 theme: jekyll-theme-midnight
-
 language: zh-Hans
 title: 高萌的博客
 subtitle: 记录生活与技能
