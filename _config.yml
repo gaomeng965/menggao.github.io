@@ -1,7 +1,7 @@
 deploy:
   type: git
   repo: git@github.com:gaomeng965/menggao.github.io.git
-  branch: master
+  branch: gh-pages
 theme: jekyll-theme-midnight
 language: zh-Hans
 title: 高萌的博客
